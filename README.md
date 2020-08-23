@@ -6,6 +6,7 @@ Read the two exotic tutorials as a preparation for workshops you will have on Tu
 
 * **numpy** - read the [official numpy getting-started tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 * **pandas** - read the [official pandas getting-started tutorial](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+* **advanced pandas** - if you completed the previous pandas tutorial, or already feel competent with the library, do the exercises [in this repo](https://github.com/guipsamora/pandas_exercises) (you are not expected to finish everything, feel free to choose exercises in topic you are less familiar with)
 
 Feel free to actually install those packages and try them yourselves. There are many ways to open a python environment and start working, it is suggested you try all of them:
 
