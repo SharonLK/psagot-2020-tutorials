@@ -11,7 +11,7 @@ Feel free to actually install those packages and try them yourselves. There are 
 
     ![image](https://user-images.githubusercontent.com/38311688/90723698-e795a480-e2c5-11ea-8ceb-b0beb9fa26e1.png)
 
-* Opening a jupyter notebook by opening the `anaconda prompt` and then writing `jupyter notebook`.
+* Opening a jupyter notebook by opening the `anaconda prompt`, moving to your working directory with `cd`, and then writing `jupyter notebook`.
 
     ![image](https://user-images.githubusercontent.com/38311688/90723769-0431dc80-e2c6-11ea-848b-91d560272cc0.png)
     
