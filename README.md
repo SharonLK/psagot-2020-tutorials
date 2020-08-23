@@ -1,5 +1,7 @@
 # Tutorials
 
+[Click here for a link to the presentation](https://docs.google.com/presentation/d/1w_druLMbmuLj8stz06CJXsh-Uva6ULbJ6PZnMMXtByI/edit?usp=sharing).
+
 Read the two exotic tutorials as a preparation for workshops you will have on Tuesday and Wednesday. Make sure you understand the basics of these frameworks as they are required for those workshops.
 
 * **numpy** - read the [official numpy getting-started tutorial](https://numpy.org/doc/stable/user/quickstart.html)
