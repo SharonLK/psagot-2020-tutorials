@@ -15,3 +15,6 @@
 7. When asked to, enter `Hatam-ds-2020` as the password.
 8. Open your browser in the local computer and go to `localhost:8888`.
 9. In that window when prompted to enter the token, enter the token you copied before.
+10. Done!
+
+    ![image](https://user-images.githubusercontent.com/38311688/91127752-96175c00-e6af-11ea-9ab7-38d8428fb5d9.png)
