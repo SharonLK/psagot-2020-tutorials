@@ -1,6 +1,6 @@
 # Azure Remote Connection Instructions
 
-1. Open MobaXTerm and enter a new SSH connection and enter the IP you received in the host, and `puser` as the username.
+1. Open MobaXTerm and open a new SSH connection and enter the IP you received in the host, and `puser` as the username.
 2. When asked to, enter `Hatam-ds-2020` as the password.
 3. Fire the command `conda activate psagot-2020-ml`.
 4. Fire the command `jupyter notebook --no-browser --port=8889` and copy the token that is auto-generated:
