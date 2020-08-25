@@ -2,7 +2,7 @@
 
 1. Open MobaXTerm and open a new SSH connection and enter the IP you received in the host, and `puser` as the username.
 
-    ![image](https://user-images.githubusercontent.com/38311688/91148836-011e5e00-e6c3-11ea-9df3-cc17bf1cdf34.png)
+    ![image](https://user-images.githubusercontent.com/38311688/91167471-b0b3fa00-e6dc-11ea-97fe-226012d5ed96.png)
 
 2. When asked to, enter `Hatam-ds-2020` as the password.
 3. Fire the command `conda activate psagot-2020-ml`.
